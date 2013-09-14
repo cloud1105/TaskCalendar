@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的日曆</string>
+    <string name="title_activity_task">編輯事項</string>
+    <string name="labSelectItemPrev">前一個月</string>
+    <string name="labSelectItemToday">今天</string>
+    <string name="labSelectItemNext">后一個月</string>
+    <string name="contentDescription">內容描述</string>
+    <string name="cancel">取消</string>
+    <string name="add">新增任務</string>
+    <string name="title_activity_task_info">每天任務列表</string>
+    <!-- task info -->
+    <string name="labSubject">主題</string>
+    <string name="labContent">內容</string>
+    <string name="labAlarm">鬧鈴</string>
+    <string name="labStartDate">開始日期</string>
+    <string name="labStartTime">開始時間</string>
+    <string name="labAllDay">全天</string>
+    <string name="btnDelete">刪除</string>
+    <string name="btnSave">保存</string>
+    <!-- day of week -->
+    <string name="sun">日</string>
+    <string name="mon">一</string>
+    <string name="tue">二</string>
+    <string name="wed">三</string>
+    <string name="thu">四</string>
+    <string name="fri">五</string>
+    <string name="sat">六</string>
+    <!-- alert msg -->
+    <string name="msgTypeInfo">提示</string>
+    <string name="msgTypeWarning">警告</string>
+    <string name="msgTypeError">錯誤</string>
+    <string name="msgBoxButtonOk">OK</string>
+    <!-- DB error msg -->
+       <!-- DB msg -->
+    <string name="saveSuccess">新建成功 !</string>
+    <string name="updateSuccess">更新成功 !</string>
+    <string name="deleteSuccess">刪除成功 !</string>
+    <string name="saveFail">新建失敗了,請反饋給開發人員 !</string>
+    <string name="updateFail">更新失敗了,請反饋給開發人員!</string>
+    <string name="deleteFail">刪除失敗了,請反饋給開發人員 !</string>
+    <!-- validate msg -->
+    <string name="subject_or_content_is_empty">主題和內容不能為空</string>
+</resources>
